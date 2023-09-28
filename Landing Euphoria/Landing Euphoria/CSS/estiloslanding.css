@@ -1,0 +1,81 @@
+
+  .logoeuphoria {
+    position: absolute;
+    top: 10%;
+    left: 79%;
+    transform: translate(-50%, -50%);
+    height: auto;
+    z-index: 1;
+    background-size: cover;
+    opacity: 1;
+  }
+
+  .hbo {
+    position: absolute;
+    top: 10%;
+    left: 12%;
+    transform: translate(-50%, -50%);
+    height: auto;
+    z-index: 1;
+    background-size: cover;
+    opacity: 1;
+  }
+
+
+
+
+.icons  {
+  position: absolute;
+    top: 70%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    height: auto;
+    z-index: 1;
+    background-size: cover;
+    opacity: 1;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vertrailer  {
+  position: absolute;
+    top: 75%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    height: auto;
+    z-index: 1;
+    background-size: cover;
+    opacity: 1;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.email-form {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: transparent;
+  padding: 20px;
+  border-radius: 5px;
+  z-index: 1;
+  color: white; 
+  text-align: center;
+ 
+}
+
+.carousel-container {
+  position: relative;
+
+}
+
+.carru {
+height: 100vh;
+}
+
+.btn {
+  margin-top: 15px;
+}
